@@ -1,0 +1,24 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo
+- descripcion
+- fecha
+- ubicacion
+
+Proposito:
+Registrar los incidentes o problemas reportados por la comunidad para facilitar su atencion y seguimiento.
+
+
+Entidad: Evento
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- lugar
+
+Proposito:
+Registrar las actividades, talleres o reuniones organizadas para la comunidad, fomentando asi la participacion ciudadana y la integracion social.

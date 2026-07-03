@@ -1,0 +1,20 @@
+Interfaz de la Plataforma Comunitaria (Reportes y Eventos)
+
+1. Formulario para crear un Reporte:
+   - Campo: Tipo de incidente
+   - Campo: Descripcion del problema
+   - Campo: Ubicacion
+   - Boton: "Enviar Reporte"
+
+2. Vista de Eventos disponibles (Tarjeta/Card):
+   -------------------------------------------------
+   | EVENTO: Reunion de Seguridad Vial             |
+   | DESCRIPCION: Dialogo sobre la semaforizacion. |
+   | FECHA Y LUGAR: Viernes 6:00 PM - Salon Comunal|
+   |                                               |
+   | CONTADOR: 12 Apoyos / Asistentes              |
+   | BOTON: [ Apoyar / Asistir a este Evento ]     |
+   -------------------------------------------------
+
+3. Logica del Boton y Contador:
+   - Al presionar el boton [ Apoyar / Asistir ], el sistema suma +1 al CONTADOR de la tarjeta para visibilizar el interes comunitario en ese Evento.

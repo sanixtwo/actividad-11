@@ -1,0 +1,5 @@
+Login: Proceso donde el usuario valida su identidad para ingresar a la plataforma.
+
+Rutas protegidas: Son secciones de la app que requieren autenticacion para evitar que usuarios no autorizados alteren la base de datos o accedan a datos privados.
+
+Informacion no publica: No se deben exponer contraseñas, tokens de acceso, credenciales de base de datos ni datos personales de los usuarios.
